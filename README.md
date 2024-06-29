@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DrVictorASM
+- 👀 I’m interested in AI and Crypto
+- 🌱 I’m currently learning Java, PHP and MySQL
+- 💞️ I’m looking to collaborate on C, C#, C++, R, Fortran, Python and others
+- 📫 How to reach me: xdvictorantonio@gmail.com
+- ⚡ Fun fact: I am one of the youngest physics PhDs in Brazil!
